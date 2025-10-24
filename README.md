@@ -29,7 +29,7 @@ real-time analytics, and gamified goal setting. Built as part of the PROG7313 pr
 - **Nia Diale  ST10396650** – Database / Backend Developer  
 - **Zalano ST10258321** – Database / Backend Developer  
 - **Mpho  ST10408316** – Frontend Developer  
-- **Thando  ST10377344** – Frontend Developer  
+- **Thando Dhlamini ST10377344** – Frontend Developer  
 - **Ntuthuko (NTK)  ST10350955** – Project Manager / Quality Assurance & Testing
 
 
